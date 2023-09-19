@@ -37,7 +37,7 @@ python resume_builder.py
 3. The script will generate a PDF resume with the provided details and save it as **resume.pdf** in the same directory.
 
 ## Screenshots
-
+![Alt text](ResumeBuilderScreenshot.PNG)
 ## Contributing
 
 Contributions are welcome! If you find any issues or have suggestions to improve the script, feel free to create an issue or submit a pull request.
